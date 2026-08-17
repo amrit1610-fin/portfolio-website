@@ -1,6 +1,4 @@
-Here is the complete `README.md` file containing everything we built and discussed for your quantitative portfolio:
 
-```markdown
 # Quantitative Research & Systems Portfolio
 
 A private notebook of models, market microstructure, and high-performance engineering decisions designed to analyze risk and signal generation. Built with a high-end, cyberpunk-inspired quantitative aesthetic.
