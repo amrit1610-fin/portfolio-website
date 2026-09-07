@@ -1,11 +1,11 @@
 ---
-
 title: "Volatility Surface & Smile Modeling (SVI + SABR + Heston)"
 description: "An end-to-end pipeline that transforms raw, noisy option chain data into a smooth, arbitrage-free 3D volatility surface and calibrates a dynamic stochastic volatility model."
 tech: ["Python", "NumPy", "SciPy", "Pandas"]
 github: "[https://github.com/yourusername/volatility-surface-modeling]([https://www.google.com/search?q=https://github.com/yourusername/volatility-surface-modeling](https://github.com/amrit1610-fin/Volatility-Surface-Smile-Modeling))"
 live: ""
 date: "2026-09-07"
+---
 
 ### Methodology
 
