@@ -16,6 +16,7 @@ export default function Home() {
   ];
 
   const certifications = [
+    { title: "Market Risk Management", issuer: "New York Institute of Finance", year: "2026", link: "https://coursera.org/share/2bf407aa0a98fad9c18a8f28dcb656bd" },
     { title: "Pre MBA Statistics", issuer: "IIM Ahmedabad", year: "2024", link: "https://coursera.org/share/e29ce41f89f25eba3ac74b8a9c0d535b" },
     { title: "Machine Learning Specialization", issuer: "Stanford Online", year: "2025", link: "https://coursera.org/share/b2c61b1772c1bd5a123a0ca0f0957b03" },
     { title: "Neural Networks and Deep Learning", issuer: "DeepLearning.AI", year: "2025", link: "https://www.coursera.org/account/accomplishments/verify/NT9V0B6SDMKO?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" }
