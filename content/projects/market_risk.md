@@ -1,5 +1,5 @@
 ---
-title: "Enterprise Market Risk Engine"
+title: "Portfolio Market Risk Engine"
 description: "A Basel-compliant market risk engine that calculates Value at Risk (VaR) and Expected Shortfall (ES) for multi-asset portfolios."
 tech: ["Python", "NumPy", "Pandas", "SciPy", "Arch"]
 github: "https://github.com/amrit1610-fin/Market-Risk-Engine"
