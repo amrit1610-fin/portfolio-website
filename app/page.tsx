@@ -72,13 +72,13 @@ export default function Home() {
               <div className="space-y-6">
                 <div>
                   <span className="text-lime-400">$ boot --profile user</span>
-                  <p className="mt-2 text-white">Name: <span className="text-gray-300">[Amritanshu Kumar Singh]</span></p>
+                  <p className="mt-2 text-white">Name: <span className="text-gray-300">Amritanshu Kumar Singh</span></p>
                 </div>
                 
                 <div>
                   <span className="text-lime-400">$ fetch --module education</span>
-                  <p className="mt-2 text-white">Degree: <span className="text-gray-300">[Int. M.Tech (Data Science)]</span></p>
-                  <p className="text-white mt-1">University: <span className="text-gray-300">[VIT Bhopal University]</span></p>
+                  <p className="mt-2 text-white">Degree: <span className="text-gray-300">Int. M.Tech (Data Science)</span></p>
+                  <p className="text-white mt-1">University: <span className="text-gray-300">VIT Bhopal University</span></p>
                 </div>
                 
                 <div>
